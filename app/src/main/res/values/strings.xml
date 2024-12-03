@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">SkiRide Travel Co.</string>
+    <string name="_1_week">1 week</string>
+    <string name="_3_days">3 days</string>
+    <string name="_2_days">2 days</string>
+    <string name="_1_day">1 day</string>
+    <string name="days_skiing">Days Skiing:</string>
+    <string name="car_travel">Car Travel</string>
+    <string name="air_travel">Air Travel</string>
+    <string name="travel_method">Travel Method:</string>
+    <string name="destination">Destination:</string>
+    <string name="rentals">Rentals:</string>
+    <string name="skiride_travel_co_calculator">SkiRide Travel Co. Calculator</string>
+    <string name="passport">Passport?</string>
+    <string name="snowboards"># Snowboards</string>
+    <string name="ski_s_needed">Ski(s) needed:</string>
+    <string name="snowboard_s_needed">Snowboard(s) needed:</string>
+    <string name="skis"># Skis</string>
+    <string name="click_the_resort_image_to_book">Click the resort image to book!</string>
+    <string name="resort_details">Resort Details</string>
+    <string name="resort_details_image">resort details image</string>
+    <string name="booked_trip_image">booked trip image</string>
+    <string name="resort_image_button">Resort Image Button</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="click_the_let_s_go_skiing_button_to_book">Click the let\'s go skiing button to book!</string>
+    <string-array name="destinations">
+        <item>Aspen</item>
+        <item>Big Sky</item>
+        <item>Breckenridge</item>
+        <item>Jackson Hole</item>
+        <item>Park City</item>
+        <item>Steamboat</item>
+        <item>Vail</item>
+        <item>Whistler Blackcomb, Canada</item>
+        <item>Saint Anton am Arlberg, Austria</item>
+    </string-array>
+    <string-array name="destdescrips">
+        <item name="Aspen">
+            Aspen\n
+            Aspen, in Colorado’s Rocky Mountains, is a ski resort town and year-round destination for outdoor recreation. It\'s also known for high-end restaurants and boutiques, and landmarks like the Wheeler Opera House, built in 1889 during the area’s silver mining boom. The Wheeler-Stallard House is a local history museum set in a 19th-century, Queen Anne–style home, while the Aspen Art Museum displays contemporary artworks.
+        </item>
+        <item name="Big Sky">
+            Big Sky\n
+            Big Sky is a community in the Rocky Mountains of southern Montana. It’s known for the ski and downhill mountain-bike trails of Big Sky Resort. Southeast of town is Yellowstone National Park, with its wildlife, hot springs and gushing geysers. To the northeast, the choppy Gallatin River cuts through the rugged Gallatin Canyon. On a tributary, Ousel Falls Park has a waterfall, picnic areas and viewpoints.
+        </item>
+        <item name="Breckenridge">
+            Breckenridge\n
+            Breckenridge is a Colorado town at the base of the Rocky Mountains’ Tenmile Range. It\'s known for its ski resort, year-round alpine activities and Gold Rush history. The Victorian core of this former mining town is preserved as the Breckenridge National Historic District, running primarily along Main Street, with colorfully painted buildings from the 1880s and \'90s housing shops, galleries and restaurants.
+        </item>
+        <item name="Jackson Hole">
+            Jackson Hole\n
+            Jackson is a town in Wyoming’s Jackson Hole valley, home to famous Jackson Hole Mountain Resort. The Town Square features arches made of shed antlers from the nearby National Elk Refuge. The National Museum of Wildlife Art has works by Andy Warhol and Georgia O’Keeffe. North are the peaks of Grand Teton National Park, as well as vast Yellowstone National Park.
+        </item>
+        <item name="Park City">
+            Park City\n
+            Park City lies east of Salt Lake City in the western state of Utah. Framed by the craggy Wasatch Range, it’s bordered by the Deer Valley Resort and the huge Park City Mountain Resort, both known for their ski slopes. Utah Olympic Park, to the north, hosted the 2002 Winter Olympics and is now predominantly a training facility. In town, Main Street is lined with buildings built during a 19th-century silver mining boom.
+        </item>
+        <item name="Steamboat">
+            Steamboat\n
+            Steamboat Springs is a city in northern Colorado’s Yampa Valley. It’s home to the Howelsen Hill ski area and the Steamboat ski resort. The latter has 6 peaks including Mount Werner. The city’s geothermal hot springs are said to have therapeutic properties. Near the city center, the long-standing Old Town Hot Springs is equipped with swimming and soaking pools, plus water slides.
+        </item>
+        <item name="Vail">
+            Vail\n
+            Vail, Colorado, is a small town at the base of Vail Mountain, home of the massive Vail Ski Resort. Set within White River National Forest, the town is a gateway for winter sports such as skiing and snowboarding. It’s also a summertime destination for golfing, hiking and cultural festivals. Gore Creek, popular for fly fishing, runs directly through the town center.
+        </item>
+        <item name="Whistler Blackcomb, Canada">
+            Whistler Blackcomb, Canada\n
+            Whistler Blackcomb is a ski resort located in Whistler, British Columbia, Canada. By many measures it is the largest ski resort in North America and has the greatest uphill lift capacity. It features the Peak 2 Peak Gondola for moving between Whistler and Blackcomb mountains at the top.
+        </item>
+        <item name="Saint Anton am Arlberg, Austria">
+            Saint Anton am Arlberg, Austria\n
+            St. Anton am Arlberg is an Austrian village in the Tyrolean Alps. It\'s known as a gateway to the Arlberg ski region and is often called the “cradle of alpine skiing” for its role in inventing the sport. The Museum St. Anton am Arlberg chronicles local ski history in a traditional chalet. Lifts and cable cars provide access to the slopes of Valluga and Rendl. The village is also known for its lively après-ski scene.
+        </item>
+    </string-array>
+</resources>
